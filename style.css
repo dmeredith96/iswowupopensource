@@ -1,0 +1,10 @@
+body {
+    position: fixed; /* or absolute */
+    top: 50%;
+    left: 50%;
+    font-family: 'Epilogue', sans-serif;
+  }
+
+h1 {
+    font-size: 300%;
+}
